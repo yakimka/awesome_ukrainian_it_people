@@ -26,7 +26,7 @@
 
 ## Telegram канали
 
-- [Bite the Byte](https://t.me/bitethebyte) - канал Олександра Соловйов
+- [Bite the Byte](https://t.me/bitethebyte) - канал Олександра Соловйова
 - [Жабаскрипт](https://t.me/jabascript) - канал Віктора Турського
 - [Improve Your Product](https://t.me/toceo) - канал для тих, хто робить (чи хоче робити) круті IT продукти.
 - [Мамкін Архітектор](https://t.me/mamkin_architect) - канал про айтішечку. 
