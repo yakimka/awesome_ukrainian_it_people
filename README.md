@@ -42,7 +42,9 @@
 - [DevJungles](https://t.me/DevJungles)
 - [Free React For Beginners](https://t.me/reactbeginners)
 - [Node.js Recipes](https://t.me/node_recipes)
+- [IT івенти в Україні 🧑‍💻 Вебінари, Тренінги, Курси](https://t.me/+NCpbHgiY8pZhZjZi)
 
 ## Telegram чати
 
 - [Peer Lab #Python](https://t.me/peerlab_python)
+- [software architecture](https://t.me/swarchua)
