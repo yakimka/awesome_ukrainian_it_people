@@ -18,8 +18,8 @@
     - [Telegram](https://t.me/doucommunity)
     - [Twitter](https://twitter.com/doucommunity)
 - Шо по коду: технічно-популярний подкаст про програмну інженерію та технології.
-    - [Youtube][https://www.youtube.com/@shopokodu]
-    - [Telegram][https://t.me/shopokodu]
+    - [Youtube](https://www.youtube.com/@shopokodu)
+    - [Telegram](https://t.me/shopokodu)
 - [Віктор Турський про програмування](https://www.youtube.com/@AboutProgramming)
 - [DevJungles](https://www.youtube.com/@DevJungles)
 - [Курс React для початківців від Vitalii Ruban](https://www.youtube.com/@reactdev)
