@@ -43,6 +43,10 @@
 - [Free React For Beginners](https://t.me/reactbeginners)
 - [Node.js Recipes](https://t.me/node_recipes)
 - [IT івенти в Україні 🧑‍💻 Вебінари, Тренінги, Курси](https://t.me/+NCpbHgiY8pZhZjZi)
+- [Yurii Luchkiv](https://t.me/yyluchkiv_blog) - авторський блог про айті, підприємництво, кар'єру та жизу
+- [ДевОпс Інженер 🇺🇦](https://t.me/devopsengineer) - авторський канал @mukolaich - Head of DevOps у SQUAD.
+- [Экстраполяция IT](https://t.me/itextrapolation) - канал Олексія Осипенко, СТО компанії Cimon
+
 
 ## Telegram чати
 
