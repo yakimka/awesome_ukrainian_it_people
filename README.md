@@ -2,6 +2,13 @@
 
 Список україномовних youtube, telegram каналів, чатів, блогів, підкастів, тощо.
 
+## Сайти
+
+- DOU: мабуть найбільша IT спільнота в Україні
+    - [Сайт](https://dou.ua/)
+    - [Telegram](https://t.me/doucommunity)
+    - [Twitter](https://twitter.com/doucommunity)
+ 
 ## Youtube
 
 - Олександ Соловйов: Соловйов здорової людини
@@ -13,10 +20,6 @@
     - [Сайт](https://fwdays.com/)
     - [Telegram](https://t.me/fwdays)
     - [Twitter](https://twitter.com/fwdays)
-- DOU: мабуть найбільша IT спільнота в Україні
-    - [Сайт](https://dou.ua/)
-    - [Telegram](https://t.me/doucommunity)
-    - [Twitter](https://twitter.com/doucommunity)
 - Шо по коду: технічно-популярний подкаст про програмну інженерію та технології.
     - [Youtube](https://www.youtube.com/@shopokodu)
     - [Telegram](https://t.me/shopokodu)
