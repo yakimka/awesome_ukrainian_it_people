@@ -26,6 +26,7 @@
 - [Віктор Турський про програмування](https://www.youtube.com/@AboutProgramming)
 - [DevJungles](https://www.youtube.com/@DevJungles)
 - [Курс React для початківців від Vitalii Ruban](https://www.youtube.com/@reactdev)
+- [Сергій Бабіч та Дивовижний світ веброзробки](https://www.youtube.com/@babichweb/videos)
 
 ## Telegram канали
 
@@ -49,6 +50,7 @@
 - [Yurii Luchkiv](https://t.me/yyluchkiv_blog) - авторський блог про айті, підприємництво, кар'єру та жизу
 - [ДевОпс Інженер 🇺🇦](https://t.me/devopsengineer) - авторський канал @mukolaich - Head of DevOps у SQUAD.
 - [Экстраполяция IT](https://t.me/itextrapolation) - канал Олексія Осипенко, СТО компанії Cimon
+- [Той самий Бабіч](https://t.me/toisamyibabich)
 
 
 ## Telegram чати
