@@ -27,9 +27,34 @@
 - [DevJungles](https://www.youtube.com/@DevJungles)
 - [Курс React для початківців від Vitalii Ruban](https://www.youtube.com/@reactdev)
 - [Сергій Бабіч та Дивовижний світ веброзробки](https://www.youtube.com/@babichweb/videos)
+- [Крафтяренко](https://www.youtube.com/@craftiarenko) - на каналі є відео про програмування, моделювання в 3D, 3D-друк і налаштування розумного будинку.
+- [Serhii Chernenko](https://www.youtube.com/@serhii.chernenko)
+- [Попелюха 👾 Тестування ПЗ](https://www.youtube.com/@Popeliuha)
+- [Kyiv IT Cluster](https://www.youtube.com/@kyivitcluster)
+- [CEO Сучасності](https://www.youtube.com/@ceo3307)
+- [Закрив раунд](https://www.youtube.com/@zakryvlive)
+- [Maksym Rudnyi](https://www.youtube.com/@MaksymRudnyi)
+- [CatOps](https://www.youtube.com/@catops)
+- [EPAM Ukraine Career](https://www.youtube.com/@epamuacareer)
+- [Mykola Murza — IT українською](https://www.youtube.com/@mykolamurza)
+- [Канал про вирішення ЛітКод Українською](https://www.youtube.com/@leetcodeUA)
+- [Неправильний DevOps](https://www.youtube.com/@DenysVasyliev)
+- [ПОДКАСТ 100 ТИСЯЧ](https://www.youtube.com/@podcast.100k)
+- [Lazy IT 🇺🇦](https://www.youtube.com/@Lazy_IT)
+- [Код Всесвіту](https://www.youtube.com/@kod_vsesvitu)
+- [Гугл не розкаже](https://www.youtube.com/@guglnerozkazhe-podcast)
+- [ЦЕ ПО РОБОТІ](https://www.youtube.com/@forworkpodcast)
+- [CodeUA](https://www.youtube.com/@CodeUA)
+- [Testing Minutes](https://www.youtube.com/@TestingMinutes)
+- [AI HOUSE](https://www.youtube.com/@aihouse_ukraine)
+- [IT Ukraine Association](https://www.youtube.com/@ITUkraineAssociation)
+- [MacPaw Tech](https://www.youtube.com/@MacPawTech)
+- [From A to QA](https://www.youtube.com/@from_a_to_qa)
+- [Сергій Немчинський: кодерська вітальня](https://www.youtube.com/@SerhiiNemchynskyi)
 
 ## Telegram канали
 
+- [import __hello__](https://t.me/import_hello) - мій канал про айті та різні думки
 - [Bite the Byte](https://t.me/bitethebyte) - канал Олександра Соловйова
 - [Жабаскрипт](https://t.me/jabascript) - канал Віктора Турського
 - [Improve Your Product](https://t.me/toceo) - канал для тих, хто робить (чи хоче робити) круті IT продукти.
@@ -51,9 +76,5 @@
 - [ДевОпс Інженер 🇺🇦](https://t.me/devopsengineer) - авторський канал @mukolaich - Head of DevOps у SQUAD.
 - [Экстраполяция IT](https://t.me/itextrapolation) - канал Олексія Осипенко, СТО компанії Cimon
 - [Той самий Бабіч](https://t.me/toisamyibabich)
+- [Прокрастинація і самобічування](https://t.me/procrastinationselfflagellation)
 
-
-## Telegram чати
-
-- [Peer Lab #Python](https://t.me/peerlab_python)
-- [software architecture](https://t.me/swarchua)
