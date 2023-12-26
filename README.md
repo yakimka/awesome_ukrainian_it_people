@@ -54,7 +54,7 @@
 
 ## Telegram канали
 
-- [import __hello__](https://t.me/import_hello) - мій канал про айті та різні думки
+- [import \_\_hello\_\_](https://t.me/import_hello) - мій канал про айті та різні думки
 - [Bite the Byte](https://t.me/bitethebyte) - канал Олександра Соловйова
 - [Жабаскрипт](https://t.me/jabascript) - канал Віктора Турського
 - [Improve Your Product](https://t.me/toceo) - канал для тих, хто робить (чи хоче робити) круті IT продукти.
