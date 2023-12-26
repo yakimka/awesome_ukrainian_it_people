@@ -51,6 +51,7 @@
 - [MacPaw Tech](https://www.youtube.com/@MacPawTech)
 - [From A to QA](https://www.youtube.com/@from_a_to_qa)
 - [Сергій Немчинський: кодерська вітальня](https://www.youtube.com/@SerhiiNemchynskyi)
+- [Технічні огірки](https://www.youtube.com/@tech.cucumbers)
 
 ## Telegram канали
 
