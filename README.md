@@ -79,3 +79,9 @@
 - [Той самий Бабіч](https://t.me/toisamyibabich)
 - [Прокрастинація і самобічування](https://t.me/procrastinationselfflagellation)
 
+## Telegram чати
+
+- [Розумний дім](https://t.me/selfhostedua) - чат для ентузіастів, що цікавляться темою розумного дому та DIY
+- [software architecture](https://t.me/swarchua) - дискусії про software architecture
+
+
