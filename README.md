@@ -56,6 +56,7 @@
 - [Технічні огірки](https://www.youtube.com/@tech.cucumbers)
 - [HackYourMom - канал мамкиного хакера Hack You Mom](https://www.youtube.com/channel/UCqPLSzBDFquB27OjU_bJXog)
 - [Алекс про IT](https://www.youtube.com/@alex-kovalchuk)
+- [JavaScript Січ](https://www.youtube.com/@js_sich)
 
 ## Telegram канали
 
@@ -90,5 +91,4 @@
 
 - [Розумний дім](https://t.me/selfhostedua) - чат для ентузіастів, що цікавляться темою розумного дому та DIY
 - [software architecture](https://t.me/swarchua) - дискусії про software architecture
-
-
+- [JavaScript Січ](https://t.me/javascript_sich) - чат про все, що стосується програмування на JavaScript
