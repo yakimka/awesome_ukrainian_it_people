@@ -57,6 +57,7 @@
 - [HackYourMom - канал мамкиного хакера Hack You Mom](https://www.youtube.com/channel/UCqPLSzBDFquB27OjU_bJXog)
 - [Алекс про IT](https://www.youtube.com/@alex-kovalchuk)
 - [JavaScript Січ](https://www.youtube.com/@js_sich)
+- [Аналітикиця](https://www.youtube.com/@catanalyst)
 
 ## Telegram канали
 
@@ -87,7 +88,6 @@
 - [Cіпласпластик](https://t.me/cpplastic) - про айті та дотичні теми загалом, ну й трохи про C++.
 - [Алекс про усе](https://t.me/AlexKovalchukTg) - канал Олександра Ковальчука ("Алекс про IT")
 - [alk0v's worklog](https://t.me/alk0vblog) - Персональний блог співзасновника Музею програмного забезпечення та комп'ютерів в Україні. Канал про софт, ретрокомп'ютери та консолі.
-
 
 ## Telegram чати
 
