@@ -58,6 +58,7 @@
 - [Алекс про IT](https://www.youtube.com/@alex-kovalchuk)
 - [JavaScript Січ](https://www.youtube.com/@js_sich)
 - [Аналітикиця](https://www.youtube.com/@catanalyst)
+- [Нікіта Тимошенко [ Аналіз даних українською ]](https://www.youtube.com/@ion_lab)
 
 ## Telegram канали
 
