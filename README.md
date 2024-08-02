@@ -94,6 +94,9 @@
 - [Game Designer Notes](https://t.me/GameDesigner_Notes) - GDN це інтелектуальний і міждисциплінарний блог про відеоігри і все що з ними пов'язано
 - [Programming Mentor](https://t.me/programmingmentor) - ти живеш, поки вчишся
 - [Українська девопсарня](https://t.me/UkropsDigest) - канал про DevOps
+- [Security Digest UA](https://t.me/secdigestua) - новини, поради, думки з кібербезпеки для професіоналів, початківців, та всіх бажаючих.
+- [SnC Museum Lab](https://t.me/snclab) - Персональний блог співзасновника SnC Museum Олександра Коваленка
+- [trace!("TheBestTvarynka")](https://t.me/tbtpm) - Rust, системне програмування, трохи про життя
 
 ## Telegram чати
 
